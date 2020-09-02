@@ -27,7 +27,7 @@ Previous knowledge of some of these concepts and tools will help you understand 
 
 In today's market, many companies have a mobile presence. Often, these companies provide free products/services in their mobile apps in an attempt to transition their customers to a paid membership. Some examples of paid products, which originate from free ones, are YouTube Red, Pandora Premium, Audible Subscription, and You Need a Budget. Since marketing efforts are never free, these companies need to know exactly who to target with offers and promotions.
 
-• Market -  The target audience is customers who use a company's free product. In this case study, thisrefers to users who installed (and used) the company's free mobile app.
+• Market -  The target audience is customers who use a company's free product. In this case study, this refers to users who installed (and used) the company's free mobile app.
 
 • Product: The paid memberships often provide enhanced versions of the free products already given for free, alongside new features. For example, Youtube Red allows you to leave the app while still listening to a video.
 
