@@ -21,7 +21,7 @@ The Model Building Process is composed of multiple parts. Some of the things we 
 
 Previous knowledge of some of these concepts and tools will help you understand the model building process quicker. Nonetheless, we will still review them as we go along, as a refresher. The libraries we will be using (and which you should have installed on your version of Python) are:
 
-• Pandas, Seaborn, Numpy, Date,util, Matplotlib, Time, Random.
+• Pandas, Seaborn, Numpy, Dateutil, Matplotlib, Time, Random.
 
 **INTRODUCTION**
 
